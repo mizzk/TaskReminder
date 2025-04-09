@@ -1,16 +1,24 @@
-# taskreminder
+# ADHD向け音声リマインダーアプリ TaskReminder
 
-A new Flutter project.
+作業中に気が散りやすいADHDの特性に配慮し、**タスク名と集中時間を設定するだけで、1分ごとに音声でリマインド**するFlutter製アプリ。
 
-## Getting Started
+## 特徴
 
-This project is a starting point for a Flutter application.
+- タスク名の音声通知（1分ごと）
+- 時間が来たら自動終了
+- 音声通知により画面を見る必要なし
+- シンプルなUIで直感的に操作可能
 
-A few resources to get you started if this is your first Flutter project:
+## 主な機能
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- タスク設定と時間指定
+- 一時停止・再開機能
+- アニメーション付きタイマー表示
+- Android・iOS・Web対応
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 開発環境
+
+```bash
+flutter pub get
+flutter run
+```
