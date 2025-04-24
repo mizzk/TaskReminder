@@ -13,3 +13,6 @@
 - 一時停止・再開機能
 - アニメーション付きタイマー表示
 - Android・iOS・Web対応(予定)
+
+## License
+[MIT](LICENSE.txt)
