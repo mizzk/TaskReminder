@@ -15,4 +15,4 @@
 - Android・iOS・Web対応(予定)
 
 ## License
-[MIT](LICENSE.txt)
+[MIT](LICENSE)
